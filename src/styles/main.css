@@ -346,7 +346,7 @@ h4 {
 .bg {
   min-height: 100vh;
   background-color: rgba(51, 51, 51, 0.9);
-  background-image: url("../images/dy1.jpg");
+  background-image: url("public/static/dy1-4e3586d82cc18ff15bd1da64c8b7bdd4.jpg");
   background-size: cover;
   background-position: 1% 15%;
   background-blend-mode: multiply;
