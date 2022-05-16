@@ -1,11 +1,12 @@
 import React from "react";
 import "../styles/main.css";
 import Cover from "../images/dyl2.jpeg";
+import Background from "/static/dy1.jpg";
 import { FaSpotify, FaInstagram, FaFacebook } from "react-icons/fa";
 
 const index = () => {
   return (
-    <div className="bg flex">
+    <div className="bg flex" style={{ backgroundImage: `url(${Background})` }}>
       <section className="left text-center container">
         <div className="content">
           <h1>Wolf Pine</h1>
